@@ -61,7 +61,13 @@ The prototype is lightweight, cost-effective, and demonstrates the fundamentals 
 
 > Prototype of the wearable smart cap.
 
-![Smart Cap Prototype](images/prototype.jpg)
+## 📷 Prototype
+
+<p align="center">
+  <img src="images/prototype.jpg" alt="Smart Cap Prototype" width="500">
+</p>
+
+*Prototype of the Smart Cap showing the Arduino Uno, HC-SR04 ultrasonic sensor, and buzzer mounted on a wearable cap.*
 
 ---
 
