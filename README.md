@@ -117,7 +117,13 @@ iot-smart-cap-for-visually-impaired
 
 ## 👤 Author
 
-**Varun Kakarla**
+**Varun Deepak Kakarla**
+
 Undergraduate
 Electronics and Communication Engineering 
 SRM Institute of Science and Technology
+
+
+## 🙏 Acknowledgements
+
+This project was developed as part of an academic embedded systems project. The initial implementation was inspired by online Arduino tutorials and was adapted, assembled, and tested as a wearable obstacle detection prototype.
